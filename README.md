@@ -1,4 +1,6 @@
-"# GoExample" 
+"# go tutorial" 
 
 Go by Example ??
-http://books.studygolang.com/gobyexample/variadic-functions/
+https://www.runoob.com/go/go-tutorial.html
+
+http://books.studygolang.com/gobyexample/
